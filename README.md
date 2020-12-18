@@ -10,7 +10,7 @@
  - [NodeJS](https://github.com/topics/nodejs)
  
 ### 🀄️ I can speak
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPyke3&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPyke3&theme=gruvbox&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 How to reach me
 You can always reach me via [email](MAILTO:pyke.jacob1@gmail.com). Or if you're after a MBP-Manjaro specific answer you can reach me on the [Linux for T2 Macs discord](https://discord.gg/RhXH5KHB9z)
