@@ -1,16 +1,23 @@
 ### 👋 G'Day!
-![JPyke3's github stats](https://github-readme-stats.vercel.app/api?username=JPyke3&show_icons=true&theme=gruvbox)
 
-### 🔭 I’m currently working on
-- [mbp-manjaro](https://github.com/JPyke3/mbp-manjaro), my project to bring Manjaro Linux to the T2 Equiped Mac machines. I am always looking for collaborators and contributors.
+![JPyke3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JPyke3&show_icons=true&theme=dracula)
 
-### 🌱 I’m currently learning
- - [C](https://github.com/topics/c)
- - [Linux](https://github.com/torvalds/linux)
- - [NodeJS](https://github.com/topics/nodejs)
- 
-### 🀄️ I can speak
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPyke3&theme=gruvbox&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 Professional & Personal Pursuits
+I've recently transitioned towards engaging with private projects, focusing significantly on:
+- AWS and AI-related innovations
+- Contributing to and leveraging FOSS AI Models
 
-### 📫 How to reach me
-You can always reach me via [email](MAILTO:pyke.jacob1@gmail.com). Or if you're after a MBP-Manjaro specific answer you can reach me on the [Linux for T2 Macs discord](https://discord.gg/RhXH5KHB9z)
+### 🌱 Learning Journey
+I'm currently on a learning path exploring:
+ - [Lua](https://github.com/topics/lua)
+ - [Neovim](https://github.com/neovim/neovim)
+ - [Rust](https://github.com/rust-lang/rust)
+  
+### 💬 Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPyke3&theme=dracula&layout=compact&langs_count=10)
+
+### 📫 Get In Touch
+You can reach me for general inquiries at [github@pyk.ee](mailto:github@pyk.ee).
+
+### 🔭 Archived Projects
+- **[mbp-manjaro](https://github.com/JPyke3/mbp-manjaro)**: A dedicated endeavor to make Manjaro Linux fully compatible with T2-equipped Mac machines
